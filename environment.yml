@@ -1,0 +1,13 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - awscli
+  - python-dotenv[version='>=0.5.1']
+  - click
+  - coverage
+  - sphinx
+  - flake8
+  - ipykernel
+  - matplotlib
+  - scipy
